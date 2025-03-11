@@ -78,4 +78,4 @@ Tutorial ini dibuat untuk pemula yang ingin memahami OOP di Java secara mendalam
 
 ## 📜 Lisensi
 
-[MIT](LICENSE) © Anton Prafanto
+[MIT](LICENSE) © Micro Boy
