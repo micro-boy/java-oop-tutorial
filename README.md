@@ -5,10 +5,30 @@
 ## 🎯 Tujuan Pembelajaran
 
 Setelah mengikuti tutorial ini, Anda akan mampu:
+
 - Memahami konsep fundamental OOP di Java
 - Mengimplementasikan 4 pilar OOP: Enkapsulasi, Inheritance, Polimorfisme, dan Abstraksi
 - Membuat aplikasi Java yang terstruktur dengan pendekatan berorientasi objek
-- [tujuan lainnya...]
+- Menjelaskan perbedaan antara pemrograman prosedural dan berorientasi objek
+- Mendefinisikan class dan menciptakan object dengan atribut dan method yang sesuai
+- Menerapkan prinsip enkapsulasi untuk melindungi data dalam aplikasi
+- Membangun hierarki class menggunakan inheritance untuk mengoptimalkan penggunaan ulang kode
+- Mengimplementasikan method overriding untuk menyesuaikan perilaku class turunan
+- Mengelola akses ke member class menggunakan access modifier (public, private, protected)
+- Membuat dan menggunakan constructor untuk inisialisasi object dengan tepat
+- Merancang setter dan getter method yang mengikuti konvensi Java Beans
+- Menggunakan keyword this dan super untuk menangani scope dan referensi
+- Menerapkan polimorfisme untuk membuat sistem yang fleksibel dan mudah diperluas
+- Mendefinisikan dan mengimplementasikan interface untuk membuat kontrak antar class
+- Merancang class abstract untuk menyediakan template implementasi
+- Membuat anonymous class untuk implementasi cepat interface dan class abstract
+- Menggunakan lambda expression untuk penulisan kode yang lebih ringkas dan ekspresif
+- Menerapkan exception handling untuk membuat program yang robust
+- Menggunakan Java Collections Framework untuk mengelola kumpulan data
+- Membuat unit test untuk memverifikasi kode OOP berfungsi dengan benar
+- Mengembangkan aplikasi Java berbasis OOP dari nol hingga implementasi lengkap
+- Menganalisis dan memperbaiki kesalahan umum dalam pemrograman berorientasi objek
+- Menerapkan prinsip desain OOP yang baik dalam pengembangan aplikasi
 
 ## 📚 Daftar Materi
 
